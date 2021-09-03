@@ -1,0 +1,20 @@
+.children {
+    width: 36vw;
+    height: 18vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(87, 122, 40);
+    
+    border-style: double;
+    border-color: black;
+    border-radius: 61px;
+}
+
+span{
+    color: black;
+    font-size: 133%;
+    font-weight: 900;
+    font-family: initial;
+    justify-content: center;
+}
