@@ -6,10 +6,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <CenterCard number = '1'/>
-        <CenterCard number = '2'/>
-        <CenterCard number = '3'/>
-        <CenterCard number = '4'/>
+        <CenterCard> Children 1 </CenterCard>
+        <CenterCard> Children 2 </CenterCard>
+        <CenterCard> Children 3 </CenterCard>
       </header>
     </div>
   );

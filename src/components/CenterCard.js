@@ -1,9 +1,9 @@
 import './style.css'
-function CenterCard (props ){
+function CenterCard (props){
     return (
         <div className ='children' >
             <span>
-                Children {props.number}
+                {props.children}
             </span>
         </div>
     )
